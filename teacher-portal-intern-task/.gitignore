@@ -1,0 +1,15 @@
+# Backend
+backend/vendor/
+backend/.env
+backend/.mysql-local/
+backend/writable/cache/*
+backend/writable/logs/*
+backend/writable/session/*
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db

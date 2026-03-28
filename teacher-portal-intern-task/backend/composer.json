@@ -1,0 +1,18 @@
+{
+  "name": "intern/teacher-portal-backend",
+  "type": "project",
+  "description": "CodeIgniter 4 backend for teacher portal intern task",
+  "license": "MIT",
+  "require": {
+    "php": "^8.1",
+    "codeigniter4/framework": "^4.5",
+    "firebase/php-jwt": "^6.10",
+    "symfony/polyfill-mbstring": "^1.33",
+    "symfony/polyfill-intl-icu": "^1.33"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
